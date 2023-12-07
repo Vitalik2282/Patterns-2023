@@ -1,0 +1,16 @@
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\bin\Debug\Lab_02.exe.config
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\bin\Debug\Lab_02.exe
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\bin\Debug\Lab_02.pdb
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\obj\Debug\Lab_02.csproj.SuggestedBindingRedirects.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\obj\Debug\Lab_02.exe
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab02\Patterns2022\Lab_02\obj\Debug\Lab_02.pdb
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\bin\Debug\Lab_02.exe.config
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\bin\Debug\Lab_02.exe
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\bin\Debug\Lab_02.pdb
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\obj\Debug\Lab_02.csproj.AssemblyReference.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\obj\Debug\Lab_02.csproj.SuggestedBindingRedirects.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\obj\Debug\Lab_02.csproj.CoreCompileInputs.cache
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\obj\Debug\Lab_02.exe
+F:\Education\2 семестр\Розробка та реінженірінг програмних систем\Lab03\Patterns2022\Lab_03\obj\Debug\Lab_02.pdb
